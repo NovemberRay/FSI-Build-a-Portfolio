@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+}
+h1{
+    color:aqua
+}
+#myName{
+    color: gold
+}
+h1{
+    font-family: cursive;
+}
+#definitely-a-picture-of-me{
+    width: 700px;
+    border: 10px solid black
+}
+#lorem{
+    border: 1px solid black
+}
+#lorem{
+    border-color: ghostwhite
+}
